@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WF6NDJoi6T71MdK31lj8WilATfbqbuhBZRLBSDU83g53qTv/wYPwPCm3ebQu3jky8uX7/Lg/pW05hc4FY4ErkQ==",
+  "success": true,
+  "projectFilePath": "D:\\users\\user1\\Desktop\\Brachi-project\\Html-Serializer\\Html-Serializer\\Html-Serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

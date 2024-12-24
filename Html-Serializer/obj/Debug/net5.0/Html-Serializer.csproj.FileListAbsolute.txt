@@ -1,0 +1,22 @@
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Html-Serializer.exe
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Html-Serializer.deps.json
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Html-Serializer.runtimeconfig.json
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Html-Serializer.runtimeconfig.dev.json
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Html-Serializer.dll
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\ref\Html-Serializer.dll
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Html-Serializer.pdb
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.csproj.AssemblyReference.cache
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.AssemblyInfoInputs.cache
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.AssemblyInfo.cs
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.dll
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\ref\Html-Serializer.dll
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.pdb
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.genruntimeconfig.cache
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\JSON Files\HtmlTags.json
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\JSON Files\HtmlVoidTags.json
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\obj\Debug\net5.0\Html-Serializer.csproj.CopyComplete
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\HtmlTags.json
+D:\users\user1\Desktop\Brachi-project\Html-Serializer\Html-Serializer\bin\Debug\net5.0\HtmlVoidTags.json
